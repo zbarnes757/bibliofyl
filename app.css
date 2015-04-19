@@ -14,3 +14,25 @@
 body {
 	background: url('ricepaper_v3_@2X.png');
 }
+
+h2, h3 {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+p, a {
+	font-family: 'Lato', sans-serif;
+}
+
+.description {
+  padding: 0px 25px;
+  text-align: center;
+}
+
+#info {
+	margin-top: 10em;
+}
+
+#info p {
+	padding: 0px 25px;
+}
