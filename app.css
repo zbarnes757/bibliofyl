@@ -2,7 +2,14 @@
 	width: 75%;
 	height: 65em;
 	margin: auto;
+	float: left;
+}
+
+.legend {
+	width: 25%;
+	height: 100%;
 	float: right;
+}
 
 body {
 	background: url('ricepaper_v3_@2X.png');
